@@ -1,0 +1,6 @@
+A:\iTi\C#\Assignments\d9\WindowsFormsApp1\DataBaseLayer\bin\Debug\DataBaseLayer.dll
+A:\iTi\C#\Assignments\d9\WindowsFormsApp1\DataBaseLayer\bin\Debug\DataBaseLayer.pdb
+A:\iTi\C#\Assignments\d9\WindowsFormsApp1\DataBaseLayer\obj\Debug\DataBaseLayer.csproj.AssemblyReference.cache
+A:\iTi\C#\Assignments\d9\WindowsFormsApp1\DataBaseLayer\obj\Debug\DataBaseLayer.csproj.CoreCompileInputs.cache
+A:\iTi\C#\Assignments\d9\WindowsFormsApp1\DataBaseLayer\obj\Debug\DataBaseLayer.dll
+A:\iTi\C#\Assignments\d9\WindowsFormsApp1\DataBaseLayer\obj\Debug\DataBaseLayer.pdb

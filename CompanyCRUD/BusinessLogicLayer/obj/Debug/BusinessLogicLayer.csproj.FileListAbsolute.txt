@@ -1,0 +1,9 @@
+A:\iTi\C#\Assignments\d9\WindowsFormsApp1\BusinessLogicLayer\bin\Debug\BusinessLogicLayer.dll
+A:\iTi\C#\Assignments\d9\WindowsFormsApp1\BusinessLogicLayer\bin\Debug\BusinessLogicLayer.pdb
+A:\iTi\C#\Assignments\d9\WindowsFormsApp1\BusinessLogicLayer\bin\Debug\DataBaseLayer.dll
+A:\iTi\C#\Assignments\d9\WindowsFormsApp1\BusinessLogicLayer\bin\Debug\DataBaseLayer.pdb
+A:\iTi\C#\Assignments\d9\WindowsFormsApp1\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.csproj.AssemblyReference.cache
+A:\iTi\C#\Assignments\d9\WindowsFormsApp1\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.csproj.CoreCompileInputs.cache
+A:\iTi\C#\Assignments\d9\WindowsFormsApp1\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.csproj.CopyComplete
+A:\iTi\C#\Assignments\d9\WindowsFormsApp1\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.dll
+A:\iTi\C#\Assignments\d9\WindowsFormsApp1\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.pdb
